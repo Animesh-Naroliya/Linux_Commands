@@ -1,0 +1,100 @@
+ls: List files and directories.
+cd: Change directory.
+pwd: Print the current working directory.
+mkdir: Create a new directory.
+rm: Remove files or directories.
+cp: Copy files or directories.
+mv: Move or rename files or directories.
+touch: Create an empty file.
+cat: Display the content of a file.
+echo: Display a message on the terminal or redirect to a file.
+grep: Search for a pattern in files.
+chmod: Change file permissions.
+chown: Change file ownership.
+ps: List running processes.
+kill: Terminate processes.
+df: Display disk space usage.
+du: Display file and directory space usage.
+wget: Download files from the internet.
+curl: Transfer data with URLs.
+tar: Archive and extract files.
+sudo: Execute commands with superuser privileges.
+top: Display real-time system resource usage.
+free: Display system memory usage.
+find: Search for files and directories.
+history: Display command history.
+scp: Securely copy files between hosts.
+ssh: Securely access remote systems.
+ping: Test network connectivity to a host.
+netstat: Display network statistics.
+traceroute: Trace the route to a host.
+ifconfig (or ip): Display network interface configuration.
+sed: Stream editor for text manipulation.
+awk: Text processing and data extraction tool.
+date: Display or set the system date and time.
+uname: Display system information.
+who: Display logged-in users.
+wc: Count words, lines, and characters in files.
+ln: Create links between files.
+head: Display the beginning of a file.
+tail: Display the end of a file.
+tar: Archive and extract files.
+cut: Remove sections from lines of files.
+sort: Sort lines of text files.
+uniq: Remove duplicate lines from a sorted file.
+diff: Compare two files line by line.
+patch: Apply changes to files using a patch file.
+gzip: Compress files.
+gunzip: Decompress files.
+tar: Create and extract archives.
+lsblk: List block devices and their attributes.
+df: Display disk space usage by filesystem.
+du: Display file and directory space usage.
+fdisk: Manipulate disk partition table.
+dd: Convert and copy files.
+mount: Mount filesystems.
+umount: Unmount filesystems.
+df: Display disk space usage.
+free: Display memory usage.
+uptime: Show how long the system has been running.
+killall: Kill processes by name.
+whoami: Print the current user.
+id: Display user and group information.
+pwd: Print the working directory.
+ls: List directory contents.
+uname: Print system information.
+date: Print or set the system date and time.
+cal: Display a calendar.
+tar: Manipulate archive files.
+which: Display the location of a command.
+whereis: Locate the binary, source, and manual page files for a command.
+find: Search for files in a directory hierarchy.
+grep: Print lines that match patterns.
+sed: Stream editor for filtering and transforming text.
+awk: Text processing tool.
+sort: Sort lines of text files.
+cut: Remove sections from each line of files.
+paste: Merge lines of files.
+tr: Translate characters.
+wc: Print newline, word, and byte counts.
+head: Output the first part of files.
+tail: Output the last part of files.
+tee: Read from standard input and write to standard output and files.
+xargs: Execute utility, passing constructed argument lists.
+chmod: Change file modes or Access Control Lists.
+chown: Change file owner and group.
+chgrp: Change group ownership.
+touch: Change file timestamps.
+umask: Set the file creation mask.
+mount: Mount a file system.
+umount: Unmount file systems.
+du: Estimate file and directory space usage.
+df: Display free disk space.
+fdisk: Partition table manipulator.
+mkfs: Build a Linux file system.
+fsck: Check and repair a Linux file system.
+lsmod: Show the status of loaded kernel modules.
+modprobe: Add and remove modules from the Linux Kernel.
+lsusb: List USB devices.
+lspci: List PCI devices.
+history: Display the command history.
